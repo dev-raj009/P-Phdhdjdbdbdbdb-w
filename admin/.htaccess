@@ -1,0 +1,7 @@
+Options -Indexes
+# Admin section - no additional IP restrictions needed as session handles auth
+# To restrict by IP, uncomment below:
+# Order Allow,Deny
+# Allow from YOUR.IP.ADDRESS
+# Deny from all
+
